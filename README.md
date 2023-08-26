@@ -28,8 +28,8 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hero-Xt&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Repositorios
-[![Repo Jokenpo](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt&repo=Jokenpo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]((https://github.com/Hero-Xt/Jokenpo.git))
-[![Repo API_Petroleo](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt&repo=API_Petroleo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]((https://github.com/Hero-Xt/API_Petroleo))
+[![Repo Jokenpo](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt&repo=Jokenpo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Hero-Xt/Jokenpo)
+[![Repo API_Petroleo](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt&repo=API_Petroleo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Hero-Xt/API_Petroleo.git)
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
