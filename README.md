@@ -33,7 +33,8 @@
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![DIO-ETL_com_Python](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt=DIO-ETL_com_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Hero-Xt/DIO-ETL_com_Python)
+[![Repo DIO ETL com Python](https://github-readme-stats.vercel.app/api/pin/?username=Hero-Xt&repo=DIO-ETL_com_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Hero-Xt/DIO-ETL_com_Python)
+
 
 
 ### Conecte-se comigo
