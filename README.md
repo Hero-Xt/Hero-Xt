@@ -10,8 +10,6 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Python](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
 
 **DevOps**
 
